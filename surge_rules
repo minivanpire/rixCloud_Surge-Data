@@ -2165,3 +2165,11 @@ FINAL,rixCloud
 ^http://api.zhuishushenqi.com/advert - reject
 ^http://api.zhuishushenqi.com/recommend - reject
 ^http://api.zhuishushenqi.com/notification/shelfMessage - reject
+
+[Host]
+ip6-localhost = ::1
+ip6-loopback = ::1
+rixcloud.com = 198.41.215.1
+www.rixcloud.com = 198.41.215.1
+docs.rixcloud.com = 198.41.215.1
+my.rixcloud.com = 198.41.214.1
