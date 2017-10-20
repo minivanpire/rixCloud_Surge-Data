@@ -1631,6 +1631,7 @@ DOMAIN,g.tbcdn.cn,REJECT
 DOMAIN-SUFFIX,goyoogroup.cn,REJECT
 DOMAIN,gorgon.youdao.com,REJECT
 DOMAIN-SUFFIX,guanggaojia.cn,REJECT
+DOMAIN-SUFFIX,guangzhuiyuan.com,REJECT
 DOMAIN-SUFFIX,good.ta80.com,REJECT
 DOMAIN-SUFFIX,gw5.push.mcp.weibo.cn,REJECT
 DOMAIN-SUFFIX,gouzhibao.cn,REJECT
